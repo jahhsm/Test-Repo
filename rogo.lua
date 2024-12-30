@@ -1,2 +1,2 @@
-local fake = print
-fake("ja")
+-- This is the updated content of rogo.lua
+print("Hello, updated world!")

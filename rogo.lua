@@ -6,3 +6,6 @@ print("Hello, appended world! xd jah here")
 
 -- test newlines
 print("Hello, appended world! xd jah here")
+
+-- test newlines
+print("Hello, appended world! xd jah here")
